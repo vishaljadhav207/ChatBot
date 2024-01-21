@@ -23,7 +23,7 @@ app.post("/ask", async (req, res) => {
       path: '/conversationgpt35',
       headers: {
         'content-type': 'application/json',
-        'X-RapidAPI-Key': '162cf2f892msh9669a0f0a2b5a8ap1de4fajsn2bfc59083c31',
+        'X-RapidAPI-Key': 'add your api key',
         'X-RapidAPI-Host': 'open-ai21.p.rapidapi.com'
       }
     };
